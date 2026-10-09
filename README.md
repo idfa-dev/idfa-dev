@@ -7,10 +7,7 @@
 I enjoy tackling complex software engineering challenges, or any deterministic problem to be honest.
 
 ## 🚀 What I'm Building
-**Bridging Machine Learning and Software Engineering:** I am currently expanding my backend skillset into AI by building an object detection REST API to understand modern, scalable deployment practices. 
-* Converting a pre-trained YOLO model into the hardware-agnostic ONNX format.
-* Serving the model via a lightweight Python FastAPI backend.
-* Containerizing the entire deployment using Docker.
+**Bridging Machine Learning and Software Engineering:** I am currently expanding my backend skillset into AI by building an object detection REST API to understand modern, scalable deployment practices by converting a pre-trained YOLO model into the hardware-agnostic ONNX format, serving the model via a lightweight Python FastAPI backend and containerizing the entire deployment using Docker. I haven't quite got into creating the project as of right now, currently I'm simply learning as much as I can on the general topic of machine learning.
 
 ## 🛠 Tech Stack
 - **Languages:** C, C#, Python, Kotlin, SQL, JavaScript
