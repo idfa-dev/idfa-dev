@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Idiris 👋
 
-<!--
-**idfa-dev/idfa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **🚧 Note on Repositories:** This is a newer account I've created for a fresh start, and I am currently migrating my portfolio from private university servers to this public account. If a repository lacks full commit history, it is because the source code was re-uploaded. More projects are actively being linked!
+> 
+I'm a 3rd-year Integrated Masters in Computer Science student at the University of Leeds (current grade sitting at 2:1). I enjoy tackling complex software engineering challenges, from building secure backend architectures to simulating physics.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
+**Diving into my first AI deployment project:** I'm currently expanding my backend skillset into AI by building an object detection REST API. My goal is to learn how to bridge the gap between machine learning and software engineering. I am attempting to take a pre-trained YOLO model, converting it to the hardware-agnostic ONNX format and serving it via a lightweight Python FastAPI backend—all containerized with Docker, which hopefully helps me understand modern, scalable deployment practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+* **Languages:** C, C#, Python, Kotlin, SQL, JavaScript
+* **Frameworks:** .NET Core, Microsoft XNA Framework, Ktor, Exposed, FastAPI
+* **Tools & Infrastructure:** Git/GitHub, Linux/Bash, Docker, ONNX, REST APIs, Google Cloud, AWS
+
+## 📌 Featured Projects
+* **[Fitness Web Application: Jympal](https://github.com/idfa-dev/fitness-web-app):** Engineered the backend for a full-stack fitness application in Kotlin. Implemented secure login sessions, Bcrypt password hashing, and database integration using the Exposed framework.
+* **[2D Physics Engine Re-creation](insert-link-here):** Recreated the core mechanics, level design, and deterministic physics simulation of the platformer *Celeste* from scratch using C# and the MonoGame framework, although the project is currently unplayable due to missing assets, all code has been recompiled and the project may be repaired at a later date.
+* **[Algorithmic Maze Generator](https://github.com/idfa-dev/maze-pathfinding-simulator):** Built a JavaScript web application to generate custom mazes and visually simulate the execution efficiency of pathfinding algorithms like Dijkstra's and A*.
+* **[Embedded CO2 Monitoring System](https://github.com/idfa-dev/idfa-dev/blob/main/insert-link-here):** Programmed Micro:bit hardware using MicroPython and C to collect, track, and visualize real-time environmental time-series data.
+* **[Plant New Seeds - LeedsHack 2025](https://github.com/rdpl0740/plant-new-seeds):** Developed an agriculture-focused rapid prototype integrating Met Office historical weather data and soil nutrient analysis to recommend optimal crop rotations
