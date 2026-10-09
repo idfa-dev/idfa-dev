@@ -23,24 +23,24 @@ I enjoy tackling complex software engineering challenges, from building secure b
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frameworks:**  
-![.Net Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) ![Ktor](https://img.shields.io/badge/ktor-%23087CFA.svg?style=for-the-badge&logo=ktor&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) *Microsoft XNA Framework* | *Exposed*
+![.Net Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) ![Microsoft XNA](https://img.shields.io/badge/Microsoft_XNA-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white) ![Ktor](https://img.shields.io/badge/ktor-%23087CFA.svg?style=for-the-badge&logo=ktor&logoColor=white) ![Exposed](https://img.shields.io/badge/Exposed-7F52FF?style=for-the-badge&logo=jetbrains&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **Tools & Infrastructure:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) *ONNX* | *REST APIs*
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📌 Featured Projects
 
-* 🏋️ **[Fitness Web Application: Jympal](https://github.com/idfa-dev/fitness-web-app)**
+* 🏋️ **[Fitness Web Application: Jympal](https://github.com/idfa-dev/fitness-web-app)** | *Kotlin, Exposed*<br>
   Engineered the backend for a full-stack fitness application in Kotlin. Implemented secure login sessions, Bcrypt password hashing, and database integration using the Exposed framework.
 
-* 🎮 **[2D Physics Engine Re-creation](insert-link-here)**
+* 🎮 **[2D Physics Engine Re-creation](insert-link-here)** | *C#, MonoGame*<br>
   Recreated the core mechanics, level design, and deterministic physics simulation of the platformer *Celeste* from scratch using C# and the MonoGame framework. *(Note: All code has been recompiled, though the project is currently unplayable due to missing assets and may be repaired at a later date).*
 
-* 🧩 **[Algorithmic Maze Generator](https://github.com/idfa-dev/maze-pathfinding-simulator)**
+* 🧩 **[Algorithmic Maze Generator](https://github.com/idfa-dev/maze-pathfinding-simulator)** | *JavaScript*<br>
   Built a JavaScript web application to generate custom mazes and visually simulate the execution efficiency of pathfinding algorithms like Dijkstra's and A*.
 
-* 🌡️ **[Embedded CO2 Monitoring System](https://github.com/idfa-dev/idfa-dev/blob/main/insert-link-here)**
+* 🌡️ **[Embedded CO2 Monitoring System](https://github.com/idfa-dev/idfa-dev/blob/main/insert-link-here)** | *C, MicroPython, Micro:bit*<br>
   Programmed Micro:bit hardware using MicroPython and C to collect, track, and visualize real-time environmental time-series data.
 
-* 🌱 **[Plant New Seeds - LeedsHack 2025](https://github.com/rdpl0740/plant-new-seeds)**
+* 🌱 **[Plant New Seeds - LeedsHack 2025](https://github.com/rdpl0740/plant-new-seeds)** | *Python, APIs, Data Integration*<br>
   Developed an agriculture-focused rapid prototype integrating Met Office historical weather data and soil nutrient analysis to recommend optimal crop rotations.
